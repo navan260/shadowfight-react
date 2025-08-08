@@ -1,0 +1,646 @@
+{
+  "sets": [
+    {
+      "name": "Monk Set",
+      "weapon": {
+        "name": "Monk’s Katars",
+        "enchantments": ["Tempest Rage", "Frenzy"]
+      },
+      "armor": {
+        "name": "Monk’s Armor",
+        "enchantments": ["Tempest Rage", "Damage Absorption"]
+      },
+      "helm": {
+        "name": "Monk’s Helm",
+        "enchantments": ["Tempest Rage", "Regeneration"]
+      },
+      "ranged_weapon": {
+        "name": "Monk’s Shuriken",
+        "enchantments": ["Tempest Rage", "Precision"]
+      },
+      "magic": {
+        "name": "Monk’s Amulet",
+        "enchantments": ["Tempest Rage"],
+        "damage": 15
+      },
+      "criteria": {
+        "willingness_to_grind": "High",
+        "skill_level": "Advanced",
+        "fun_factor": "High",
+        "gameplay_focus": "Raids"
+      },
+      "notes": "Mythical set requiring raids or Mystery Box. High skill needed for aura stacking; flashy effects."
+    },
+    {
+      "name": "Sentinel Set",
+      "weapon": {
+        "name": "Sentinel’s Kusarigama",
+        "enchantments": ["Typhoon of Spirits", "Frenzy"]
+      },
+      "armor": {
+        "name": "Sentinel’s Armor",
+        "enchantments": ["Typhoon of Spirits", "Damage Absorption"]
+      },
+      "helm": {
+        "name": "Sentinel’s Helm",
+        "enchantments": ["Typhoon of Spirits", "Regeneration"]
+      },
+      "ranged_weapon": {
+        "name": "Sentinel’s Chakram",
+        "enchantments": ["Typhoon of Spirits", "Precision"]
+      },
+      "magic": {
+        "name": "Sentinel’s Amulet",
+        "enchantments": ["Typhoon of Spirits"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "High",
+        "skill_level": "Advanced",
+        "fun_factor": "High",
+        "gameplay_focus": "Raids"
+      },
+      "notes": "Mythical set from Sentinel Chest. Requires precise unblocked hits; dynamic visuals."
+    },
+    {
+      "name": "Warlock Set",
+      "weapon": {
+        "name": "Warlock’s Blades",
+        "enchantments": ["Crimson Corruption", "Bleeding"]
+      },
+      "armor": {
+        "name": "Warlock’s Armor",
+        "enchantments": ["Crimson Corruption", "Shielding"]
+      },
+      "helm": {
+        "name": "Warlock’s Helm",
+        "enchantments": ["Crimson Corruption", "Rejuvenation"]
+      },
+      "ranged_weapon": {
+        "name": "Warlock’s Throwing Knives",
+        "enchantments": ["Crimson Corruption", "Poisoning"]
+      },
+      "magic": {
+        "name": "Warlock’s Amulet",
+        "enchantments": ["Crimson Corruption"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "High",
+        "skill_level": "Intermediate",
+        "fun_factor": "Medium",
+        "gameplay_focus": "Both"
+      },
+      "notes": "Mythical set from Halloween 2021 Battle Pass. Bleeding curse is easier to manage."
+    },
+    {
+      "name": "Director Set",
+      "weapon": {
+        "name": "Director’s Blades",
+        "enchantments": ["Plot Twist", "Frenzy"]
+      },
+      "armor": {
+        "name": "Director’s Armor",
+        "enchantments": ["Plot Twist", "Damage Absorption"]
+      },
+      "helm": {
+        "name": "Director’s Helm",
+        "enchantments": ["Plot Twist", "Regeneration"]
+      },
+      "ranged_weapon": {
+        "name": "Director’s Shuriken",
+        "enchantments": ["Plot Twist", "Precision"]
+      },
+      "magic": {
+        "name": "Director’s Amulet",
+        "enchantments": ["Plot Twist"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "High",
+        "skill_level": "Advanced",
+        "fun_factor": "High",
+        "gameplay_focus": "Both"
+      },
+      "notes": "Mythical set from Halloween 2022. Magic-stealing effect adds strategic depth."
+    },
+    {
+      "name": "Spore Soul Set",
+      "weapon": {
+        "name": "Spore Soul Blades",
+        "enchantments": ["Cordyceps", "Lifesteal"]
+      },
+      "armor": {
+        "name": "Spore Soul Armor",
+        "enchantments": ["Cordyceps", "Shielding"]
+      },
+      "helm": {
+        "name": "Spore Soul Helm",
+        "enchantments": ["Cordyceps", "Rejuvenation"]
+      },
+      "ranged_weapon": {
+        "name": "Spore Soul Throwing Daggers",
+        "enchantments": ["Cordyceps", "Poisoning"]
+      },
+      "magic": {
+        "name": "Spore Soul Amulet",
+        "enchantments": ["Cordyceps"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "High",
+        "skill_level": "Intermediate",
+        "fun_factor": "Medium",
+        "gameplay_focus": "Raids"
+      },
+      "notes": "Mythical set from 2024 Ritual Battles. Point-based damage/heal effect."
+    },
+    {
+      "name": "Titan Slayer Set",
+      "weapon": {
+        "name": "Lynx’s Claws",
+        "enchantments": ["Time Bomb", "Poisoning"]
+      },
+      "armor": {
+        "name": "May’s Armor",
+        "enchantments": ["Damage Absorption", "Regeneration"]
+      },
+      "helm": {
+        "name": "May’s Helm",
+        "enchantments": ["Damage Absorption", "Regeneration"]
+      },
+      "ranged_weapon": {
+        "name": "Lynx’s Throwing Daggers",
+        "enchantments": ["Time Bomb", "Poisoning"]
+      },
+      "magic": {
+        "name": "Torturer’s Rage",
+        "enchantments": ["Lifesteal"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "Medium",
+        "skill_level": "Advanced",
+        "fun_factor": "Medium",
+        "gameplay_focus": "Overworld"
+      },
+      "notes": "Optimized for Titan with Time Bomb. Requires Eclipse mode for boss gear."
+    },
+    {
+      "name": "Raid Damage Set",
+      "weapon": {
+        "name": "Pneumo Fists",
+        "enchantments": ["Earthquake", "Frenzy"]
+      },
+      "armor": {
+        "name": "Membrane Cuirass",
+        "enchantments": ["Damage Absorption"]
+      },
+      "helm": {
+        "name": "Steel Helmet",
+        "enchantments": ["Regeneration"]
+      },
+      "ranged_weapon": {
+        "name": "Shuriken",
+        "enchantments": ["Precision"]
+      },
+      "magic": {
+        "name": "Asteroid",
+        "enchantments": ["Overheat"],
+        "damage": 55
+      },
+      "criteria": {
+        "willingness_to_grind": "Low",
+        "skill_level": "Intermediate",
+        "fun_factor": "Medium",
+        "gameplay_focus": "Raids"
+      },
+      "notes": "High raid damage with Pneumo Fists. Shop items, gem-purchased."
+    },
+    {
+      "name": "Bleeding Aggressor Set",
+      "weapon": {
+        "name": "Composite Sword",
+        "enchantments": ["Bleeding", "Frenzy"]
+      },
+      "armor": {
+        "name": "Ronin’s Armor",
+        "enchantments": ["Damage Return"]
+      },
+      "helm": {
+        "name": "Ronin’s Helm",
+        "enchantments": ["Shielding"]
+      },
+      "ranged_weapon": {
+        "name": "Throwing Knives",
+        "enchantments": ["Bleeding"]
+      },
+      "magic": {
+        "name": "Fireball",
+        "enchantments": ["Overheat"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "Low",
+        "skill_level": "Beginner",
+        "fun_factor": "Low",
+        "gameplay_focus": "Overworld"
+      },
+      "notes": "Accessible early, Bleeding for consistent DoT, simple mechanics."
+    },
+    {
+      "name": "Survivalist Set",
+      "weapon": {
+        "name": "Daisho",
+        "enchantments": ["Precision", "Frenzy"]
+      },
+      "armor": {
+        "name": "Steel Cuirass",
+        "enchantments": ["Damage Absorption"]
+      },
+      "helm": {
+        "name": "Steel Helmet",
+        "enchantments": ["Regeneration"]
+      },
+      "ranged_weapon": {
+        "name": "Chakram",
+        "enchantments": ["Precision"]
+      },
+      "magic": {
+        "name": "Dark Implosion",
+        "enchantments": ["Weakness"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "Low",
+        "skill_level": "Beginner",
+        "fun_factor": "Low",
+        "gameplay_focus": "Overworld"
+      },
+      "notes": "Shop items, survivability-focused for early-game players."
+    },
+    {
+      "name": "Hermit Buster Set",
+      "weapon": {
+        "name": "Blood Reaper",
+        "enchantments": ["Frenzy"]
+      },
+      "armor": {
+        "name": "Membrane Cuirass",
+        "enchantments": ["Shielding"]
+      },
+      "helm": {
+        "name": "Steel Helmet",
+        "enchantments": ["Rejuvenation"]
+      },
+      "ranged_weapon": {
+        "name": "Throwing Spikes",
+        "enchantments": ["Stun"]
+      },
+      "magic": {
+        "name": "Water Ball",
+        "enchantments": ["Overheat"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "Medium",
+        "skill_level": "Intermediate",
+        "fun_factor": "Medium",
+        "gameplay_focus": "Overworld"
+      },
+      "notes": "Effective against Hermit with Stun control, requires Eclipse mode."
+    },
+    {
+      "name": "Chronos Set",
+      "weapon": {
+        "name": "Chronos’s Blades",
+        "enchantments": ["Time Shift", "Frenzy"]
+      },
+      "armor": {
+        "name": "Chronos’s Armor",
+        "enchantments": ["Time Shift", "Damage Absorption"]
+      },
+      "helm": {
+        "name": "Chronos’s Helm",
+        "enchantments": ["Time Shift", "Regeneration"]
+      },
+      "ranged_weapon": {
+        "name": "Chronos’s Shuriken",
+        "enchantments": ["Time Shift", "Precision"]
+      },
+      "magic": {
+        "name": "Chronos’s Amulet",
+        "enchantments": ["Time Shift"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "High",
+        "skill_level": "Advanced",
+        "fun_factor": "High",
+        "gameplay_focus": "Both"
+      },
+      "notes": "Mythical set from New Year 2023, slows enemies for critical strikes."
+    },
+    {
+      "name": "Wind Maker Set",
+      "weapon": {
+        "name": "Creator of the Winds Blades",
+        "enchantments": ["Squall", "Frenzy"]
+      },
+      "armor": {
+        "name": "Creator of the Winds Armor",
+        "enchantments": ["Squall", "Shielding"]
+      },
+      "helm": {
+        "name": "Creator of the Winds Helm",
+        "enchantments": ["Squall", "Rejuvenation"]
+      },
+      "ranged_weapon": {
+        "name": "Creator of the Winds Throwing Knives",
+        "enchantments": ["Squall", "Precision"]
+      },
+      "magic": {
+        "name": "Creator of the Winds Amulet",
+        "enchantments": ["Squall"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "High",
+        "skill_level": "Intermediate",
+        "fun_factor": "High",
+        "gameplay_focus": "Both"
+      },
+      "notes": "Mythical set from Independence Day 2022, leg attacks create dynamic wind effects."
+    },
+    {
+      "name": "Nrityu’s Set",
+      "weapon": {
+        "name": "Nrityu’s Blades",
+        "enchantments": ["Karma", "Bleeding"]
+      },
+      "armor": {
+        "name": "Nrityu’s Armor",
+        "enchantments": ["Karma", "Rejuvenation"]
+      },
+      "helm": {
+        "name": "Nrityu’s Helm",
+        "enchantments": ["Karma", "Shielding"]
+      },
+      "ranged_weapon": {
+        "name": "Nrityu’s Chakram",
+        "enchantments": ["Karma", "Poisoning"]
+      },
+      "magic": {
+        "name": "Nrityu’s Amulet",
+        "enchantments": ["Karma"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "High",
+        "skill_level": "Intermediate",
+        "fun_factor": "Medium",
+        "gameplay_focus": "Both"
+      },
+      "notes": "Mythical set from Destiny in Red 2024, Karma effect unspecified."
+    },
+    {
+      "name": "Forest Guardian Set",
+      "weapon": {
+        "name": "Forest Guardian’s Blades",
+        "enchantments": ["Icy Resistance", "Frenzy"]
+      },
+      "armor": {
+        "name": "Forest Guardian’s Armor",
+        "enchantments": ["Icy Resistance", "Damage Absorption"]
+      },
+      "helm": {
+        "name": "Forest Guardian’s Helm",
+        "enchantments": ["Icy Resistance", "Regeneration"]
+      },
+      "ranged_weapon": {
+        "name": "Forest Guardian’s Shuriken",
+        "enchantments": ["Icy Resistance", "Precision"]
+      },
+      "magic": {
+        "name": "Forest Guardian’s Amulet",
+        "enchantments": ["Icy Resistance"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "High",
+        "skill_level": "Intermediate",
+        "fun_factor": "Medium",
+        "gameplay_focus": "Both"
+      },
+      "notes": "Mythical set from New Year 2022, reduces enemy damage."
+    },
+    {
+      "name": "Neo-Wanderer Set",
+      "weapon": {
+        "name": "Neo-Wanderer’s Blades",
+        "enchantments": ["Arcane Martial Art", "Frenzy"]
+      },
+      "armor": {
+        "name": "Neo-Wanderer’s Armor",
+        "enchantments": ["Arcane Martial Art", "Shielding"]
+      },
+      "helm": {
+        "name": "Neo-Wanderer’s Helm",
+        "enchantments": ["Arcane Martial Art", "Rejuvenation"]
+      },
+      "ranged_weapon": {
+        "name": "Neo-Wanderer’s Throwing Daggers",
+        "enchantments": ["Arcane Martial Art", "Precision"]
+      },
+      "magic": {
+        "name": "Neo-Wanderer’s Amulet",
+        "enchantments": ["Arcane Martial Art"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "High",
+        "skill_level": "Advanced",
+        "fun_factor": "High",
+        "gameplay_focus": "Raids"
+      },
+      "notes": "Mythical set from Chest of Neo-Wanderer, enhances martial arts."
+    },
+    {
+      "name": "Lifesteal Brawler Set",
+      "weapon": {
+        "name": "Shogun’s Katanas",
+        "enchantments": ["Lifesteal", "Frenzy"]
+      },
+      "armor": {
+        "name": "Membrane Cuirass",
+        "enchantments": ["Damage Absorption"]
+      },
+      "helm": {
+        "name": "Steel Helmet",
+        "enchantments": ["Regeneration"]
+      },
+      "ranged_weapon": {
+        "name": "Throwing Knives",
+        "enchantments": ["Lifesteal"]
+      },
+      "magic": {
+        "name": "Torturer’s Rage",
+        "enchantments": ["Lifesteal"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "Medium",
+        "skill_level": "Intermediate",
+        "fun_factor": "Medium",
+        "gameplay_focus": "Overworld"
+      },
+      "notes": "Lifesteal for health recovery, avoid against Titan’s Enlightenment."
+    },
+    {
+      "name": "Precision Striker Set",
+      "weapon": {
+        "name": "Devastator",
+        "enchantments": ["Precision", "Frenzy"]
+      },
+      "armor": {
+        "name": "Ronin’s Armor",
+        "enchantments": ["Shielding"]
+      },
+      "helm": {
+        "name": "Ronin’s Helm",
+        "enchantments": ["Rejuvenation"]
+      },
+      "ranged_weapon": {
+        "name": "Chakram",
+        "enchantments": ["Precision"]
+      },
+      "magic": {
+        "name": "Lightning Arrow",
+        "enchantments": ["Overheat"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "Low",
+        "skill_level": "Intermediate",
+        "fun_factor": "Medium",
+        "gameplay_focus": "Overworld"
+      },
+      "notes": "Precision for critical hits, accessible for mid-game players."
+    },
+    {
+      "name": "Poison Assassin Set",
+      "weapon": {
+        "name": "Wasp’s Naginata",
+        "enchantments": ["Poisoning", "Frenzy"]
+      },
+      "armor": {
+        "name": "Steel Cuirass",
+        "enchantments": ["Damage Return"]
+      },
+      "helm": {
+        "name": "Steel Helmet",
+        "enchantments": ["Regeneration"]
+      },
+      "ranged_weapon": {
+        "name": "Throwing Spikes",
+        "enchantments": ["Poisoning"]
+      },
+      "magic": {
+        "name": "Energy Ball",
+        "enchantments": ["Poisoning"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "Medium",
+        "skill_level": "Intermediate",
+        "fun_factor": "Medium",
+        "gameplay_focus": "Overworld"
+      },
+      "notes": "Poisoning for DoT, effective for prolonged boss fights."
+    },
+    {
+      "name": "Stun Control Set",
+      "weapon": {
+        "name": "Butcher’s Cleavers",
+        "enchantments": ["Stun", "Frenzy"]
+      },
+      "armor": {
+        "name": "Membrane Cuirass",
+        "enchantments": ["Damage Absorption"]
+      },
+      "helm": {
+        "name": "Steel Helmet",
+        "enchantments": ["Shielding"]
+      },
+      "ranged_weapon": {
+        "name": "Shuriken",
+        "enchantments": ["Stun"]
+      },
+      "magic": {
+        "name": "Monk’s Amulet",
+        "enchantments": ["Tempest Rage"],
+        "damage": 15
+      },
+      "criteria": {
+        "willingness_to_grind": "Medium",
+        "skill_level": "Intermediate",
+        "fun_factor": "Medium",
+        "gameplay_focus": "Both"
+      },
+      "notes": "Stun and Monk’s Amulet for crowd control, versatile for raids and story."
+    },
+    {
+      "name": "Balanced Fighter Set",
+      "weapon": {
+        "name": "Big Swords",
+        "enchantments": ["Frenzy", "Bleeding"]
+      },
+      "armor": {
+        "name": "Steel Cuirass",
+        "enchantments": ["Damage Absorption"]
+      },
+      "helm": {
+        "name": "Steel Helmet",
+        "enchantments": ["Regeneration"]
+      },
+      "ranged_weapon": {
+        "name": "Throwing Knives",
+        "enchantments": ["Precision"]
+      },
+      "magic": {
+        "name": "Fire Pillar",
+        "enchantments": ["Overheat"],
+        "damage": 45
+      },
+      "criteria": {
+        "willingness_to_grind": "Low",
+        "skill_level": "Beginner",
+        "fun_factor": "Low",
+        "gameplay_focus": "Overworld"
+      },
+      "notes": "Balanced for early to mid-game, simple but effective."
+    }
+  ],
+  "filters": {
+    "willingness_to_grind": {
+      "Low": [6, 7, 8, 16, 19],
+      "Medium": [5, 9, 15, 17, 18],
+      "High": [0, 1, 2, 3, 4, 10, 11, 12, 13, 14]
+    },
+    "skill_level": {
+      "Beginner": [7, 8, 19],
+      "Intermediate": [2, 4, 6, 9, 11, 12, 13, 15, 16, 17, 18],
+      "Advanced": [0, 1, 3, 5, 10, 14]
+    },
+    "fun_factor": {
+      "Low": [7, 8, 19],
+      "Medium": [2, 4, 5, 6, 9, 12, 13, 15, 16, 17, 18],
+      "High": [0, 1, 3, 10, 11, 14]
+    },
+    "gameplay_focus": {
+      "Raids": [0, 1, 4, 6, 14],
+      "Overworld": [5, 7, 8, 9, 15, 16, 17, 19],
+      "Both": [2, 3, 10, 11, 12, 13, 18]
+    }
+  }
+}
