@@ -28,6 +28,3 @@ A React-based web app to browse and filter 20 Shadow Fight 2 sets (mythical or n
 2. Install dependencies: `npm install`
 3. Start the app: `npm start`
 
-## License
-
-MIT
